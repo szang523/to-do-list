@@ -1,4 +1,10 @@
 /*index.css*/
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.mark-complete {
+    background-color: purple;
+}
 
   .delete {
     margin-right: 5px;
